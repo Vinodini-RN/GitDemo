@@ -8,3 +8,4 @@ Feature: Title of your feature
     And some other precondition
     When I complete action
     And check
+    Then say hello in the scenario
